@@ -1,0 +1,5 @@
+MVVM stands for Model View View Model
+It tells how to organize and structure your code to write maintainable, testable and extensible applications.
+Model − It simply holds the data and has nothing to do with any of the business logic.
+ViewModel − It acts as the link/connection between the Model and View and makes stuff look pretty.
+View − It simply holds the formatted data and essentially delegates everything to the Model.
