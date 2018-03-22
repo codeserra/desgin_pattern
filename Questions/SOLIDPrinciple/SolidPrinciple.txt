@@ -1,4 +1,6 @@
-Single responsibility principle
+SOLID is an acronym for a set of important design principles that, if followed, can avoid code smells and improve the code quality, both structurally and functionally.
+
+Code smells can be prevented or refactored into clean code if your software architecture meets the SOLID design principle compliance. The following principles are collectively called SOLID design principle.
 
 S:  a class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
 O:  Open/closed principle
