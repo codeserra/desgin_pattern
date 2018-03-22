@@ -1,0 +1,15 @@
+Difference between Design pattern and framework?
+
+Design Pattern:-  
+
+Design pattern solves many software architecture issues 
+Design pattern is a category of patterns that deals with object oriented software. 
+Design pattern captures the static and dynamic structure and collaboration among key participants in software designs.
+They can be used across different domains.
+They have tight scope
+Framework:-
+
+Framework is made up of group of concrete classes which can be directly implemented on an existing platform.
+Frameworks are written in programming languages. It is a large entity comprising of several design patterns.
+Frameworks are concerned with specific application domain e.g. database, web application etc.
+It has large scope.
